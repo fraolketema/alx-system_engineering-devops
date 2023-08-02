@@ -1,2 +1,2 @@
-#!/git/bash
+#!/bin/bash
 mv /tmp/betty /tmp/my_firstdirectory
